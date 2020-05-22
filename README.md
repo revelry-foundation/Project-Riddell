@@ -8,6 +8,8 @@ While we work on creating a robust `README` for this Open Source project, intere
 
 For some insights into the different pieces and early decisions, see the discussion on https://github.com/revelrylabs/tracing/issues/1.
 
+For insights into our plans for the U.S.-holiday shortened week of May 26, 2020, please see this Issue: https://github.com/revelry-foundation/nightingale/issues/1
+
 ## Discussion
 
 We encourage discussion to occur using the Comments on Issues and their respective Pull Requests. We find it important to capture questions and decisions as close to where the work is committed, so we lean on GitHub Comments.
