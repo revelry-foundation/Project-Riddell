@@ -12,7 +12,7 @@ We encourage discussion to occur using the Comments on Issues and their respecti
 
 For general discussion, deliberation, and planning, we encourage you to join the [**#tracing** Slack channel](https://revelry-public.slack.com/archives/C014AR56T1P) in the Revelry Public Slack. Not yet a member? Gain access via [https://community.revelry.co](https://community.revelry.co) 
 
-## Contributing
+## [Contributing Guide][contribute]
 
 As an Open Source project, we aim to foster positive and generative interaction among contributors and with the community at-large.
 
@@ -20,8 +20,8 @@ Please see the [CONTRIBUTING][contribute] file for our guidelines.
 
 [contribute]: https://github.com/revelry-foundation/nightingale/blob/master/CONTRIBUTING.md
 
-## License
+## [License][license]
 
-Nightingale is MIT licensed, as found in the [LICENSE][l] file.
+Nightingale is MIT licensed, as found in the [LICENSE][license] file.
 
-[l]: https://github.com/revelry-foundation/nightingale/blob/master/LICENSE.md
+[license]: https://github.com/revelry-foundation/nightingale/blob/master/LICENSE.md
