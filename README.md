@@ -28,6 +28,6 @@ Please see the [CONTRIBUTING][contribute] file for our guidelines.
 
 ## [License][license]
 
-Nightingale is MIT licensed, as found in the [LICENSE][license] file.
+Nightingale is MIT licensed and Copyright (c) 2020 Revelry Foundation, as found in the [LICENSE][license] file.
 
 [license]: https://github.com/revelry-foundation/nightingale/blob/master/LICENSE.md
