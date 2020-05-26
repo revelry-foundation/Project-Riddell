@@ -14,6 +14,12 @@ For insights into our plans for the U.S.-holiday shortened week of May 26, 2020,
 
 Please see the [Milestones page](https://github.com/revelry-foundation/nightingale/milestones) to get a sense of the initial shaping of the work for **Track A**.
 
+## Resources
+
+- [Project Folder on Google Drive](https://drive.google.com/open?id=1B8l0uzWR-dekg2qflbfvCPTu2kkT1LaG)
+  - A place to store and collaborate on non-git documents, such as docs, spreadsheets, presentations, etc.
+  - This folder or subsets of folders may have limited access (such as documents with personal contact info for customer interview participants).
+
 ## Discussion
 
 We encourage discussion to occur using the Comments on Issues and their respective Pull Requests. We find it important to capture questions and decisions as close to where the work is committed, so we lean on GitHub Comments.
