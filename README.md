@@ -7,7 +7,7 @@ For the actual code and to submit Pull Requests outside of `README` and other pr
 - [nightingale-server](https://github.com/revelry-foundation/nightingale-server)
 - [nightingale-mobile](https://github.com/revelry-foundation/nightingale-mobile)
 - [nightingale-cluster](https://github.com/revelry-foundation/nightingale-cluster)
-- [nightingale-web](https://github.com/revelry-foundation/nightingale-web)
+- [nightingale-site](https://github.com/revelry-foundation/nightingale-site)
 
 ## Background
 
