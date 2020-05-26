@@ -22,6 +22,7 @@ Please see the [Milestones page](https://github.com/revelry-foundation/nightinga
 
 ## Resources
 
+- [Kanban Board](https://kanban.prod.revelry.net/app/revelry-foundation/nightingale) for Issue prioritization and tracking.
 - [Project Folder on Google Drive](https://drive.google.com/open?id=1B8l0uzWR-dekg2qflbfvCPTu2kkT1LaG)
   - A place to store and collaborate on non-git documents, such as docs, spreadsheets, presentations, etc.
   - This folder or subsets of folders may have limited access (such as documents with personal contact info for customer interview participants).
