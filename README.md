@@ -1,10 +1,13 @@
 # Nightingale
 
-This is the repo where we track our issues. For the actual code, see:
+This is the repo where we track all of our Issues, regardless of project area.
 
-* [nightingale-server](https://github.com/revelry-foundation/nightingale-server)
-* [nightingale-mobile](https://github.com/revelry-foundation/nightingale-mobile)
-* [nightingale-cluster](https://github.com/revelry-foundation/nightingale-cluster)
+For the actual code and to submit Pull Requests outside of `README` and other project-level documentation, see:
+
+- [nightingale-server](https://github.com/revelry-foundation/nightingale-server)
+- [nightingale-mobile](https://github.com/revelry-foundation/nightingale-mobile)
+- [nightingale-cluster](https://github.com/revelry-foundation/nightingale-cluster)
+- [nightingale-web](https://github.com/revelry-foundation/nightingale-web)
 
 ## Background
 
