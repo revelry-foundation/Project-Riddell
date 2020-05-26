@@ -1,5 +1,11 @@
 # Nightingale
 
+This is the repo where we track our issues. For the actual code, see:
+
+* [nightingale-server](https://github.com/revelry-foundation/nightingale-server)
+* [nightingale-mobile](https://github.com/revelry-foundation/nightingale-mobile)
+* [nightingale-cluster](https://github.com/revelry-foundation/nightingale-cluster)
+
 ## Background
 
 Our goals for the week starting Tuesday, May 26, 2020:
