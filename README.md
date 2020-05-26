@@ -12,6 +12,8 @@ For insights into early decisions, see the prior discussion on https://github.co
 
 For insights into our plans for the U.S.-holiday shortened week of May 26, 2020, please see this Issue: https://github.com/revelry-foundation/nightingale/issues/1
 
+Please see the [Milestones page](https://github.com/revelry-foundation/nightingale/milestones) to get a sense of the initial shaping of the work for **Track A**.
+
 ## Discussion
 
 We encourage discussion to occur using the Comments on Issues and their respective Pull Requests. We find it important to capture questions and decisions as close to where the work is committed, so we lean on GitHub Comments.
