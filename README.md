@@ -6,9 +6,9 @@ Our goals for the week starting Tuesday, May 26, 2020:
 - **Prototype and validate/invalidate an Open Source Contact Tracing App that automates, securely and anonymously, the contact tracing process.**
 - **Conduct customer research and design studios to identify the most impactful way to address Contract Tracing and/or other COVID-19 needs among the hardest hit populations**
 
-While we work on creating a robust `README` for this Open Source project, interested parties can find our WIP via [this public Google doc](https://docs.google.com/document/d/1Ob3Z_RxdGALPhl3V0XqQhLLYLYKKmMRXHf3fGT640rE/edit).
+While we work on creating a robust `README` for this Open Source project, interested parties can review [this Google Slides presentation](https://docs.google.com/presentation/d/1HpbhUb89nBgOIG9x39qzHcGGc2vnUo-wz90XKoTyCcI/edit?usp=sharing) for an easily-consumable overivew. You can also review [this public Google doc,](https://docs.google.com/document/d/1Ob3Z_RxdGALPhl3V0XqQhLLYLYKKmMRXHf3fGT640rE/edit) which serves as a Work in Progress (WIP) `README` that we are adapting and pulling over into this repo. 
 
-For some insights into the different pieces and early decisions, see the discussion on https://github.com/revelrylabs/tracing/issues/1.
+For insights into early decisions, see the prior discussion on https://github.com/revelrylabs/tracing/issues/1.
 
 For insights into our plans for the U.S.-holiday shortened week of May 26, 2020, please see this Issue: https://github.com/revelry-foundation/nightingale/issues/1
 
