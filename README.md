@@ -23,12 +23,16 @@ For insights into our plans for the U.S.-holiday shortened week of May 26, 2020,
 
 Please see the [Milestones page](https://github.com/revelry-foundation/nightingale/milestones) to get a sense of the initial shaping of the work for **Track A**.
 
-## Resources
+## Resources and Links
 
-- [Kanban Board](https://kanban.prod.revelry.net/app/revelry-foundation/nightingale) for Issue prioritization and tracking.
-- [Project Folder on Google Drive](https://drive.google.com/open?id=1B8l0uzWR-dekg2qflbfvCPTu2kkT1LaG)
+- [**Kanban Board**](https://kanban.prod.revelry.net/app/revelry-foundation/nightingale) for Issue prioritization and tracking.
+- [**Project Folder on Google Drive**](https://drive.google.com/open?id=1B8l0uzWR-dekg2qflbfvCPTu2kkT1LaG)
   - A place to store and collaborate on non-git documents, such as docs, spreadsheets, presentations, etc.
   - This folder or subsets of folders may have limited access (such as documents with personal contact info for customer interview participants).
+- **Nightingale Marketing Website**
+  - Public Domain TBD
+  - [Production](https://nightingaleweb.wpengine.com/) (Pushing all code and content to Production until we go live, then we'll switch to a Staging > QA/UAT > Production workflow)
+  - [Staging](http://nightingalestg.wpengine.com/) (Staging will remain empty until we go live with Production)
 
 ## Discussion
 
