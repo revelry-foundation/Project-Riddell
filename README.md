@@ -31,7 +31,7 @@ Please see the [Milestones page](https://github.com/revelry-foundation/nightinga
   - This folder or subsets of folders may have limited access (such as documents with personal contact info for customer interview participants).
 - **Nightingale Marketing Website**
   - Public Domain TBD
-  - [Production](https://nightingaleweb.wpengine.com/) (Pushing all code and content to Production until we go live, then we'll switch to a Staging > QA/UAT > Production workflow)
+  - [Production](https://nightingale.revelry.org/) (Pushing all code and content to Production until we go live, then we'll switch to a Staging > QA/UAT > Production workflow)
   - [Staging](http://nightingalestg.wpengine.com/) (Staging will remain empty until we go live with Production)
 
 ## Discussion
