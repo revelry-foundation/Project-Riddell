@@ -4,10 +4,12 @@ This is the repo where we track all of our Issues, regardless of project area.
 
 For the actual code and to submit Pull Requests outside of `README` and other project-level documentation, see:
 
-- [nightingale-server](https://github.com/revelry-foundation/nightingale-server)
-- [nightingale-mobile](https://github.com/revelry-foundation/nightingale-mobile)
-- [nightingale-cluster](https://github.com/revelry-foundation/nightingale-cluster)
-- [nightingale-site](https://github.com/revelry-foundation/nightingale-site)
+| Repo | Tech | Description |
+| ---- | ---- | ----------- |
+| [nightingale-server](https://github.com/revelry-foundation/nightingale-server) | Elixir, Phoenix, Postgres, PostGIS | The backend API server used by the mobile app. |
+| [nightingale-mobile](https://github.com/revelry-foundation/nightingale-mobile) | React Native | The user-facing mobile app. |
+| [nightingale-cluster](https://github.com/revelry-foundation/nightingale-cluster) | Kubernetes, FluxCD | The YAML files that define our Kubernetes cluster resources. |
+| [nightingale-site](https://github.com/revelry-foundation/nightingale-site) | Wordpress | This is the source code for nightingale.revelry.org. |
 
 ## Background
 
